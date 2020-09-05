@@ -1,6 +1,6 @@
 # Web-App---Streamlit-and-Python
 This app uses streamlit library framework to show a web app on machine learning. 
-The basic steps for running a streamlit app is
+The basic step for running a streamlit app is: -
 # streamlit run filename.py
 The file runs on a local host
 This web app has three machine learning algorithms with its hyperparameters.
